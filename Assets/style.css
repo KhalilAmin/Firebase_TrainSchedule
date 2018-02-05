@@ -1,0 +1,18 @@
+.panel-header {
+    background-color: lightskyblue;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 4px;
+    padding-left: 6px;
+}
+
+.table {
+    border: solid;
+    border-color: lightskyblue;
+}
+
+form {
+    border: solid;
+    border-color: lightskyblue;
+    padding: 5px;
+}
